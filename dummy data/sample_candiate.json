@@ -1,0 +1,87 @@
+[
+    {
+        "_id": "6ac0a363072bffa6f53bbca6",
+        "name": "Narendra Modi",
+        "party": "BJP",
+        "age": 71,
+        "votes": [
+            {
+                "user": "6ac0b2645882954375783103",
+                "votedAt": "2026-10-03T06:39:35.476Z",
+                "_id": "6ac0b300588295437578310d"
+            }
+        ],
+        "voteCount": 1,
+        "__v": 1
+    },
+    {
+        "_id": "6ac0a363072bffa6f53bbca7",
+        "name": "Rahul Gandhi",
+        "party": "INC",
+        "age": 51,
+        "votes": [
+            {
+                "user": "6ac0b3a65882954375783127",
+                "votedAt": "2026-10-03T06:39:35.476Z",
+                "_id": "6ac0b3cf5882954375783132"
+            }
+        ],
+        "voteCount": 1,
+        "__v": 1
+    },
+    {
+        "_id": "6ac0a363072bffa6f53bbca8",
+        "name": "Arvind Kejriwal",
+        "party": "AAP",
+        "age": 53,
+        "votes": [
+            {
+                "user": "6ac0d9eece42a90805f1db95",
+                "votedAt": "2026-10-03T10:27:20.767Z",
+                "_id": "6ac0da1fce42a90805f1db9f"
+            }
+        ],
+        "voteCount": 1,
+        "__v": 1
+    },
+    {
+        "_id": "6ac0a363072bffa6f53bbca9",
+        "name": "Mamata Banerjee",
+        "party": "AITC",
+        "age": 67,
+        "votes": [
+            {
+                "user": "6ac0b593588295437578315f",
+                "votedAt": "2026-10-03T06:39:35.476Z",
+                "_id": "6ac0b5b75882954375783177"
+            },
+            {
+                "user": "6ac0c5518681d4aeadd79c41",
+                "votedAt": "2026-10-03T08:41:42.295Z",
+                "_id": "6ac0c5668681d4aeadd79c4c"
+            }
+        ],
+        "voteCount": 2,
+        "__v": 2
+    },
+    {
+        "_id": "6ac0a363072bffa6f53bbcaa",
+        "name": "Yogi Adityanath",
+        "party": "BJP",
+        "age": 49,
+        "votes": [
+            {
+                "user": "6ac0bfcb8681d4aeadd79c15",
+                "votedAt": "2026-10-03T08:41:42.295Z",
+                "_id": "6ac0c0078681d4aeadd79c2e"
+            },
+            {
+                "user": "6ac0d7634291dfec906a6ac7",
+                "votedAt": "2026-10-03T10:22:24.134Z",
+                "_id": "6ac0d7934291dfec906a6af0"
+            }
+        ],
+        "voteCount": 2,
+        "__v": 2
+    }
+]
